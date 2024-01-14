@@ -1,4 +1,4 @@
-# Exercices
+# Exerciseses
 
 1.  Peça ao usuário para digitar seu nome e sua idade.
     <br>Se nome e idade forem digitados, exiba:
